@@ -1,0 +1,9 @@
+beta_simulator_mac/
+data/
+beta_simulator_windows/
+model_test2.h5
+track1/
+track2/
+Behavioral_Cloning.ipynb
+data_udacity/
+.ipynb_checkpoints/
