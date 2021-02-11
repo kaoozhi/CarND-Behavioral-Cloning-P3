@@ -139,4 +139,4 @@ history = model.fit_generator(train_generator,
 '''
 Model saving
 '''
-# model.save('model.h5')
+model.save('model.h5')
